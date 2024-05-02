@@ -2,7 +2,7 @@
       <img height="250" src="https://cdn.extragon.cloud/file/d735f166e6c65ac4b412baf2650ac572.svg">
 </p>
 
-### 👋 Hi, I’m **LSTV**. I'm a student in IT and about 9 years of experience.
+### 👋 Hi, I’m **LSTV**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
 - 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem.
 - 🌱 You know, learning some new stuff everyday.
 - 💞️ I love to help beginer developers get started.
