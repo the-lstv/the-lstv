@@ -3,7 +3,7 @@
 </p>
 
 ### 👋 Hi, I’m **TheLSTV**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
-- 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support FOSS.
+- 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support **FOSS**.
 - 🌱 You know, learning new stuff everyday.
 - 💞️ I love to help beginer developers get started.
 - 📫 Best way to reach me is via Discord: @thelstv<br>
@@ -32,9 +32,11 @@
 |------------------------------|--------------|--------------|
 | Fedora Linux | 💖 Love It | Daily driver |
 | GNU+Linux | 💖 Love It | |
+| Debian based | 🟡 Mid | ~6 years+ |
 | Android | 😥 Being ruined by Google & Java | Daily driver |
-| Symbian | 🟡 Above decent, ruined by Java | At least 4 years |
+| Symbian | 🟡 Decent, ruined by Java | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
-| Windows | ❌ Garbage, would not use ever again | Since Vista, later also tried every known version |
+| Windows Phone | The what? | v6.5, v8.1, v10 (daily-drived it once) |
+| Windows | ❌ Would not use ever again | Since Vista, later also tried every known version |
