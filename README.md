@@ -35,6 +35,6 @@
 | Android | 😥 Being ruined by Google & Java | Daily driver |
 | Symbian | 🟡 Above decent, ruined by Java | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
-| TempleOS | ✝️ | Tried it |
-| MaxOS | 👎 If you just browse the web and send mails | Technically since IIGS |
-| Windows | ❌ Garbage | Since Vista, later also tried every known version |
+| TempleOS | ✝️  | Tried it |
+| MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
+| Windows | ❌ Garbage, would not use ever again | Since Vista, later also tried every known version |
