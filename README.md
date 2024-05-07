@@ -5,7 +5,7 @@
 ### 👋 Hi, I’m **TheLSTV**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
 - 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support **FOSS**.
 - 🌱 You know, learning new stuff everyday.
-- 💞️ I love to help beginer developers get started.
+- 💞️ I love to help beginner developers get started.
 - 📫 Best way to reach me is via Discord: @thelstv<br>
       My (WIP) website: https://beta.lstv.space, i'm also the admin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
