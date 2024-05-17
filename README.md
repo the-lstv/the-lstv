@@ -39,4 +39,4 @@
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
-| Windows | ❌ Would not use ever again | Since Vista, later also tried every known version |
+| Windows | ❌ Not 11 | Since Vista, later also tried every known version |
