@@ -32,7 +32,8 @@
 |------------------------------|--------------|--------------|
 | Fedora Linux | 💖 Love It | Daily driver |
 | GNU+Linux | 💖 Love It | |
-| Debian based | 🟡 Mid | ~6 years+ |
+| RHEL based | 💖 Cool | |
+| Debian based | 🟡 Not a fan | ~6 years+ |
 | Android | 😥 Being ruined by Google & Java | Daily driver |
 | Symbian | 🟡 Decent, ruined by Java | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
