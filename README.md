@@ -48,7 +48,4 @@
 | Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ Not 11 | Since Vista, later also tried every known version |
 
-You will be banned if Tailwind is mentioned even once or someone tries to implement it anywhere.
-Tailwind is a plaque that destroys many otherwise cool projects.
-It makes applications slow, impossinble to read and modify, breaks components, introduces bloat, breaks standards and creates millions of issues along the line.
-Not even speaking of how much more difficult is it to work with.
+You will be banned if you try to implement Tailwind anywhere.
