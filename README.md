@@ -26,6 +26,12 @@
 | Java | ❌ Garbage | ~4 regretable years |
 | C# | ❌ Java from Microsoft | nah |
 
+## Frameworks
+
+| Framework                     | Opinion      | Experience   |
+|------------------------------|--------------|--------------|
+| Tailwind | ❌ Garbage | enough |
+
 ## Operating Systems
 
 | OS                     | Opinion      | Experience   |
@@ -41,3 +47,5 @@
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ Not 11 | Since Vista, later also tried every known version |
+
+You will be banned if Tailwind is mentioned even once or someone tries to implement it anywhere.
