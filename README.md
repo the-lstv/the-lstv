@@ -16,15 +16,17 @@
 | Language                     | Opinion      | Experience   |
 |------------------------------|--------------|--------------|
 | Glitter | 🫥 *will* surely be great | ∞ I made it |
-| JavaScript | 💖 Love It | ~5 years |
+| Intersion | Interdimensional travelling | ∞ I made it |
+| JavaScript | 💖 Love It | ~5 years, main |
 | Assembly | 💪 The best | i wish |
 | C++ | 🟢 Amazing | ~3 years |
 | Shell script | 🟢 Cool | depends |
-| PHP | 🟡 Decent-ish | ~7 years |
+| PHP | 🟡 (Used to be) decent | ~7 years |
 | Python | 🟠 Prototypes only | kinda |
 | TypeScript | ❌ Why | enough |
 | Java | ❌ Garbage | ~4 regretable years |
-| C# | ❌ Java from Microsoft | nah |
+| C# | ❌ Java from Microsoft | some |
+| Rust | 🫥 Mixed feelings | not yet |
 
 ## Operating Systems
 
@@ -34,7 +36,7 @@
 | GNU+Linux | 💖 Love It | |
 | RHEL based | 💖 Cool | |
 | Debian based | 🟡 Not a fan | ~6 years+ |
-| Android | 😥 Being ruined by Google & Java | Daily driver |
+| Android | 😥 Being ruined by Google | Daily driver |
 | Symbian | 🟡 Decent, ruined by Java | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
