@@ -29,7 +29,6 @@
 | Rust | 🫥 Mixed feelings | not yet |
 
 ## Operating Systems
-
 | OS                     | Opinion      | Experience   |
 |------------------------------|--------------|--------------|
 | Fedora Linux | 💖 Love It | Daily driver |
@@ -42,4 +41,20 @@
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
-| Windows | ❌ Not 11 | Since Vista, later also tried every known version |
+| Windows | ❌ 11 sucks | Using since Vista, later also tried every known version |
+
+## Aesthetics
+| Aesthetic                    | Opinion      | Design experience   |
+|------------------------------|--------------|--------------|
+| 🧊 Fluent design (upcomming) | Well see | |
+| 🔵 Flat design (current) | I like it | yes |
+| 🔵 Flat design (early) | Bad | yes |
+| 🔊 Frutiger Metro | Its okay | no |
+| 🫧 Frutiger Aero | 💖 Love It | some |
+| Android Holo | nostalgia | no |
+| (not an aesthetic) Google Material v1/v2 | meh | tiny |
+| (not an aesthetic) Google Material v3 | a lot better | no |
+| Corporate memphis | Awful, terrible, disgusting, cringe. | no. |
+| Y2K | 💖 Love It | no |
+| Vaporwave | Pretty cool ig | no |
+
