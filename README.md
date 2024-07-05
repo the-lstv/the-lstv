@@ -42,12 +42,12 @@
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ 11 sucks | Using since Vista, later also tried every known version |
-
+<!--
 ## Aesthetics
 | Aesthetic                    | Opinion      | Design experience   |
 |------------------------------|--------------|--------------|
-| 🧊 Fluent design (upcomming) | Well see | |
-| 🔵 Flat design (current) | I like it | yes |
+| 🧊 Fluent design (upcomming) | Well see | -- |
+| 🔵 Flat design (current) | I like it, if done right | yes |
 | 🔵 Flat design (early) | Bad | yes |
 | 🔊 Frutiger Metro | Its okay | no |
 | 🫧 Frutiger Aero | 💖 Love It | some |
@@ -57,4 +57,4 @@
 | Corporate memphis | Awful, terrible, disgusting, cringe. | no. |
 | Y2K | 💖 Love It | no |
 | Vaporwave | Pretty cool ig | no |
-
+-->
