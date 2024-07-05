@@ -36,7 +36,7 @@
 | RHEL based | 💖 Cool | |
 | Debian based | 🟡 Not a fan | ~6 years+ |
 | Android | 😥 Being ruined by Google | Daily driver |
-| Symbian | 🟡 Decent, ruined by Java | At least 4 years |
+| Symbian | 🟡 Decent, rest in peace | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
