@@ -46,7 +46,7 @@
 ## Aesthetics
 | Aesthetic                    | Opinion      | Design experience   |
 |------------------------------|--------------|--------------|
-| 🧊 Fluent design (upcomming) | Well see | -- |
+| 🧊 Fluent design (upcomming) | Well see :D | -- |
 | 🔵 Flat design (current) | I like it, if done right | yes |
 | 🔵 Flat design (early) | Bad | yes |
 | 🔊 Frutiger Metro | Its okay | no |
