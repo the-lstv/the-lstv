@@ -57,4 +57,6 @@
 | Corporate memphis | Awful, terrible, disgusting, cringe. | no. |
 | Y2K | 💖 Love It | no |
 | Vaporwave | Pretty cool ig | no |
+
+today is sunday
 -->
