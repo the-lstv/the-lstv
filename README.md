@@ -6,8 +6,8 @@
 - 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support **FOSS**.
 - 🌱 You know, learning new stuff everyday.
 - 💞️ I love to help beginner developers get started.
-- 📫 Best way to reach me is via Discord: @thelstv<br>
-      My (WIP) website: https://beta.lstv.space, i'm also the admin of https://extragon.cloud<br>
+- 📫 Best way to reach me is via Discord: **@thelstv**<br>
+      My website: https://lstv.space, i'm also the admin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
 
 
