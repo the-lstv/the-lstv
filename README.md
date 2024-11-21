@@ -21,11 +21,11 @@
 | Assembly | 💪 The best | i wish |
 | C++ | 🟢 Amazing | ~3 years |
 | Shell script | 🟢 Cool | depends |
-| PHP | 🟡 (Used to be) decent | ~7 years |
+| PHP | 🟡 Decent when it lasted | ~7 years |
 | Python | 🟠 Prototypes only | kinda |
-| TypeScript | ❌ Why | enough |
-| Java | ❌ Garbage | ~4 regretable years |
-| C# | ❌ Java from Microsoft | some |
+| TypeScript | ❌ No point | enough |
+| Java | ❌ Just awful | ~4 regretable years |
+| C# | ❌ Essentially Java from Microsoft | some |
 | Rust | 🫥 Mixed feelings | not yet |
 
 ## Operating Systems
@@ -34,13 +34,13 @@
 | Fedora Linux | 💖 Love It | Daily driver |
 | GNU+Linux | 💖 Love It | |
 | RHEL based | 💖 Cool | |
-| Debian based | 🟡 Not a fan | ~6 years+ |
-| Android | 😥 Being ruined by Google | Daily driver |
+| Debian based | 🟡 Not the biggest fan | ~6 years+ |
+| Android | 😥 Being ruined | Daily driver |
 | Symbian | 🟡 Decent, rest in peace | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
-| Windows Phone | 🟡 The what? And Why? | v6.5, v8.1, v10 (daily-drived it once) |
+| Windows Phone | 🟡 The what? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ 11 sucks | Using since Vista, later also tried every known version |
 <!--
 ## Aesthetics
