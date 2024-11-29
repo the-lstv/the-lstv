@@ -37,7 +37,7 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | RHEL based | 💖 Cool | |
 | Debian based | 🟡 Not the biggest fan | ~6 years+ |
 | LiOS | 🫥 i'm sure it will be awesome | ∞ I made it |
-| Android | 😥 Being ruined | Daily driver |
+| Android | 😥 Being ruined by stupid policies | Daily driver |
 | Symbian | 🟡 Decent, rest in peace | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
