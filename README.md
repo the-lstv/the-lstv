@@ -24,9 +24,9 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | Shell script | 🟢 Cool | depends |
 | PHP | 🟡 Decent ig, not very useable today | ~7 years |
 | Python | 🟠 Prototypes only | kinda |
-| TypeScript | I dont like it | small |
+| TypeScript | 😕 I dont like it very much | small |
+| C# | 😕 Is just fancy Java from Microsoft | minor |
 | Java | ❌ Awful | ~4 regretable years |
-| C# | ❌ Is just fancy Java from Microsoft | minor |
 | Rust | 🫥 Mixed feelings | not yet |
 
 ## Operating Systems
@@ -36,11 +36,13 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | GNU+Linux | 💖 Love It | |
 | RHEL based | 💖 Cool | |
 | Debian based | 🟡 Not the biggest fan | ~6 years+ |
+| LiOS | 🫥 i'm sure it will be awesome | ∞ I made it |
 | Android | 😥 Being ruined | Daily driver |
 | Symbian | 🟡 Decent, rest in peace | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
-| MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
+| MacOS | 😕 If you just browse the web and send mails, its useable | Technically since IIGS |
+| ChromeOS | 😕 It serves its purpose i guess | Very small |
 | Windows Phone | 🟡 The what? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ eh, bloated and slow, hostile to developers | Using since Vista, later also tried every known version |
 <!--
