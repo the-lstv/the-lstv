@@ -8,7 +8,8 @@
 - 💞️ I love to help beginner developers get started.
 - 📫 Best way to reach me is via Discord: **@thelstv**<br>
       My website: https://lstv.space, i'm also the admin of https://extragon.cloud<br>
-      Work phone: +420 721 378 455
+      Work phone: +420 721 378 455<br><br>
+  Also! Im working on a revoloutionary OS <!--Optional: With skippynugget! <insert github link>--> Its a wip but its working :)
 
 
 ## Languages
