@@ -2,7 +2,7 @@
       <img height="250" src="https://cdn.extragon.cloud/file/d735f166e6c65ac4b412baf2650ac572.svg">
 </p>
 
-### 👋 Hi, I’m **TheLSTV**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
+### 👋 Hi, I’m **Lukas**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
 - 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support **FOSS**.
 - 🌱 You know, learning new stuff everyday.
 - 💞️ I love to help beginner developers get started.
@@ -10,6 +10,7 @@
       My website: https://lstv.space, i'm also the admin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
 
+Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestnugget)! It is a wip but it's working :)
 
 ## Languages
 
@@ -21,11 +22,11 @@
 | Assembly | 💪 The best | i wish |
 | C++ | 🟢 Amazing | ~3 years |
 | Shell script | 🟢 Cool | depends |
-| PHP | 🟡 Decent when it lasted | ~7 years |
+| PHP | 🟡 Decent ig, not very useable today | ~7 years |
 | Python | 🟠 Prototypes only | kinda |
-| TypeScript | ❌ No point | enough |
-| Java | ❌ Just awful | ~4 regretable years |
-| C# | ❌ Essentially Java from Microsoft | some |
+| TypeScript | I dont like it | small |
+| Java | ❌ Awful | ~4 regretable years |
+| C# | ❌ Is just fancy Java from Microsoft | minor |
 | Rust | 🫥 Mixed feelings | not yet |
 
 ## Operating Systems
@@ -41,7 +42,7 @@
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? | v6.5, v8.1, v10 (daily-drived it once) |
-| Windows | ❌ 11 sucks | Using since Vista, later also tried every known version |
+| Windows | ❌ eh, bloated and slow, hostile to developers | Using since Vista, later also tried every known version |
 <!--
 ## Aesthetics
 | Aesthetic                    | Opinion      | Design experience   |
@@ -56,8 +57,6 @@
 | (not an aesthetic) Google Material v3 | a lot better | no |
 | Corporate memphis | Awful, terrible, disgusting, cringe. | no. |
 | Y2K | 💖 Love It | no |
-| Vaporwave | Pretty cool ig | no |
-
-today is sunday
+| Vaporwave | Pretty cool | no |
 -->
-i am tired 
+i am tired :p
