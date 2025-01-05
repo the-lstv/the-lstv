@@ -60,5 +60,9 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | Corporate memphis | Awful, terrible, disgusting, cringe. | no. |
 | Y2K | 💖 Love It | no |
 | Vaporwave | Pretty cool | no |
+
+
+I'm still working i promise :)
+Just nothing that would be publish-worthy at this moment 
 -->
 i am tired :p
