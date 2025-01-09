@@ -7,10 +7,8 @@
 - 🌱 You know, learning new stuff everyday.
 - 💞️ I love to help beginner developers get started.
 - 📫 Best way to reach me is via Discord: **@thelstv**<br>
-      My website: https://lstv.space, i'm also the admin of https://extragon.cloud<br>
+      My website: https://lstv.space, i'm also the sysadmin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
-
-Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestnugget)! It is a wip but it's working :)
 
 ## Languages
 
@@ -24,10 +22,10 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | Shell script | 🟢 Cool | depends |
 | PHP | 🟡 Decent ig, not very useable today | ~7 years |
 | Python | 🟠 Prototypes only | kinda |
-| TypeScript | 😕 I dont like it very much | small |
+| TypeScript | 😕 Eh | small |
 | C# | 😕 Is just fancy Java from Microsoft | minor |
-| Java | ❌ Awful | ~4 regretable years |
-| Rust | 🫥 Mixed feelings | not yet |
+| Java | ❌ Nope | ~4 regretable years |
+| Rust | 🫥 Mixed feelings, excited to try | not yet |
 
 ## Operating Systems
 | OS                     | Opinion      | Experience   |
@@ -43,7 +41,7 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 😕 If you just browse the web and send mails, its useable | Technically since IIGS |
 | ChromeOS | 😕 It serves its purpose i guess | Very small |
-| Windows Phone | 🟡 The what? | v6.5, v8.1, v10 (daily-drived it once) |
+| Windows Phone | 🟡 Why | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ eh, bloated and slow, hostile to developers | Using since Vista, later also tried every known version |
 <!--
 ## Aesthetics
@@ -61,8 +59,5 @@ Working on a revoloutionary OS with [skippynugget](https://github.com/Itsyobestn
 | Y2K | 💖 Love It | no |
 | Vaporwave | Pretty cool | no |
 
-
-I'm still working i promise :)
-Just nothing that would be publish-worthy at this moment 
 -->
 i am tired :p
