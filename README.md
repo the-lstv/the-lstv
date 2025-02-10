@@ -1,5 +1,5 @@
 <p align="center">
-      <img height="250" src="https://cdn.extragon.cloud/file/d735f166e6c65ac4b412baf2650ac572.svg">
+      <img height="250" src="https://cdn-origin.extragon.cloud/file/d735f166e6c65ac4b412baf2650ac572.svg?cache">
 </p>
 
 ### 👋 Hi, I’m **Lukas**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
