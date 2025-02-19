@@ -2,9 +2,10 @@
       <img height="250" src="https://cdn-origin.extragon.cloud/file/d735f166e6c65ac4b412baf2650ac572.svg?cache">
 </p>
 
-### 👋 Hi, I’m **Lukas**. I'm a student in IT and about 9 years of experience (or 5 of *"real"* programming).
-- 👀 I’m interested in **development and design**, and i'm working on creating a whole ecosystem. I support **FOSS**.
-- 🌱 You know, learning new stuff everyday.
+### 👋 Hi, I’m **Lukas**. I'm a student in IT and have about 9 years of experience in development and design (or 5 years of *"real"* programming).
+- 🗿 A very active developer, even if not on GitHub, I am working on something basically 99% of my free time.
+- 👀 I’m interested in **development, design, hardware systems and networking**, and i'm working on creating my own open ecosystem. I support **FOSS** and like to create my own libraries and tools.
+- 🌱 Learning new stuff everyday.
 - 💞️ I love to help beginner developers get started.
 - 📫 Best way to reach me is via Discord: **@thelstv**<br>
       My website: https://lstv.space, i'm also the sysadmin of https://extragon.cloud<br>
@@ -16,26 +17,27 @@
 |------------------------------|--------------|--------------|
 | Glitter | 🫥 *will* surely be great | ∞ I made it |
 | Intersion | Interdimensional travelling | ∞ I made it |
-| JavaScript | 💖 Love It | ~5 years, main |
-| Assembly | 💪 The best | i wish |
-| C++ | 🟢 Amazing | ~3 years |
-| Shell script | 🟢 Cool | depends |
-| PHP | 🟡 Decent ig, not very useable today | ~7 years |
-| Python | 🟠 Prototypes only | kinda |
+| JavaScript | 💖 Love It | ~5 years, mastered |
+| Assembly | 💪 Objectively the best | very small but some (ARM, x86_64) |
+| C++ | 🟢 Bloated but amazing | ~3 years |
+| Shell script | 🟢 Cool | yes |
+| PHP | 🟡 Decent ig, not very useful today | ~7 years, replaced by node |
+| Python | 🟠 Only for prototypes | kinda, but I don't use it |
 | TypeScript | 😕 Eh | small |
 | C# | 😕 Is just fancy Java from Microsoft | minor |
-| Java | ❌ Nope | ~4 regretable years |
-| Rust | 🫥 Mixed feelings, excited to try | not yet |
+| Java | ❌ Nope. Never again | ~4 regretable years |
+| Rust | 🫥 Mixed feelings, excited to try | not yet, but I definitely plan to use it in the future |
 
 ## Operating Systems
 | OS                     | Opinion      | Experience   |
 |------------------------------|--------------|--------------|
-| Fedora Linux | 💖 Love It | Daily driver |
+| Fedora Linux + Cinnamon DE | 💖 Love It | Daily driver |
 | GNU+Linux | 💖 Love It | |
-| RHEL based | 💖 Cool | |
-| Debian based | 🟡 Not the biggest fan | ~6 years+ |
+| RHEL based | 💖 Fast, modern, clean, and just works | |
+| Debian based | 🟡 Meh. Messy and fragile, everything takes 2x the effort | ~6 years+ |
 | LiOS | 🫥 i'm sure it will be awesome | We made it |
-| Android | 😥 Being ruined by stupid policies | Daily driver |
+| Android | 😥 Ruined by stupid policies | Daily driver |
+| iOS | 👎 Definitely not for me | Most newer versions (12-18), but I couldn't get myself to daily drive it |
 | Symbian | 🟡 Decent, rest in peace | At least 4 years |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
