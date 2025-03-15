@@ -15,8 +15,8 @@
 
 My top languages are C++ and JavaScript.
 
-JavaScript is the language I have the most experience with - having written hundereds of thousands of lines, spent countless hours optimizing and rewriting code, I've gotten a pretty decent understanding on the language's inner workings and how to write efficient and responsive code.
-C++ is also a language I enjoy using, though have considerably less experience with compared to JS.
+JavaScript is the language I have the most experience with - having written hundreds of thousands of lines, spent countless hours optimizing and rewriting code, I've gotten a pretty decent understanding on the language's inner workings and how to write efficient and responsive code.
+C++ is also a language I enjoy using, though have significantly less experience than JS.
 
 I am also sometimes considering making my own programming language, called "Glitter", and actually already written about ~4-ish parsers and incomplete compilers. So far I've abandoned the idea pretty quickly when I considered the amount of required effort for something that won't be the C++ killer anyways.
 
@@ -54,7 +54,9 @@ My first daily-driver Linux distro was Ubuntu (shocking right), then Linux Mint,
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
 | TempleOS | ✝️ Third Temple | Tried it |
 | MacOS | 😕 If you just browse the web and send mails, its useable | Technically since IIGS |
-| ChromeOS | 😕 It serves its purpose i guess | Very small |
-| Windows Phone | 🟡 Why | v6.5, v8.1, v10 (daily-drived it once) |
-| Windows | ❌ Bloated and slow, hostile to developers | Using since Vista, later also tried every known version |
+| ChromeOS | 😕 It serves its purpose i guess, but too locked down | Very small |
+| FreeBSD | 🟡 Not enough experience to make an opinion | |
+| Solaris | 🟡 Not enough experience to make an opinion | |
+| Windows Phone | 🟡 Why tho | v6.5, v8.1, v10 (daily-drived it once) |
+| Windows | ❌ Bloated and slow, hostile to developers | Used since Vista, later tried basically every known version |
 
