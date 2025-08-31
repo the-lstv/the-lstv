@@ -7,7 +7,7 @@
 - 👀 I’m interested in **development, design, art, sound design and composition, game development, hardware systems and networking, and science**, and i'm working on creating my own open ecosystem. I support **FOSS** and like to create my own libraries and tools.
 - 🌱 Learning new stuff everyday.
 - 💞️ I love to help beginner developers get started.
-- 📫 Best way to reach me is via Discord: **@thelstv**<br>
+- 📫 Best way to reach me is via Discord: **@thelstv** or soon on [https://lstv.space/chat](https://lstv.space/chat)<br>
       My website: https://lstv.space, i'm also the sysadmin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
 
