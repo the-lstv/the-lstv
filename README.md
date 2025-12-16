@@ -11,6 +11,9 @@
       My website: https://lstv.space, i'm also the sysadmin of https://extragon.cloud<br>
       Work phone: +420 721 378 455
 
+Mail: admin@lstv.space
+Mail for cloud service inquiries: admin@extragon.cloud
+
 ## Languages
 
 My top languages are C++ and JavaScript.
