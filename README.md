@@ -3,7 +3,10 @@
 </p>
 
 ### 👋 Hi, I’m **Lukas**.
-I have about 10 years of experience in development and design.
+
+### [Check out my website.](https://lstv.space)
+
+I have about 10 years of experience in software development and design.
 - :godmode: A very active developer, I work on something basically 90% of my free time.
 - 👀 I’m interested in **development, design, art, sound design and composition, game development, hardware and networking, and science**, and i'm working on creating my own open ecosystem. I support **FOSS** and like to create libraries and tools from scratch.
 - 💞️ I like to help beginner developers getting started.
@@ -18,7 +21,7 @@ Mail for service inquiries: admin@extragon.cloud
 
 My top languages are C++ and JavaScript.
 
-JavaScript is the language I have the most experience with - written hundreds of thousands of lines, spent countless hours optimizing and rewriting code.
+JavaScript is the language I have the most experience with and have a quite decent understanding on it's behavior.
 
 | Language                     | Opinion      | Experience   |
 |------------------------------|--------------|--------------|
@@ -52,7 +55,7 @@ My first daily-driver Linux distro was Ubuntu (shocking), but I am not a big fan
 | iOS | 👎 Not for me | Versions 12-26, I couldn't get myself to daily drive it |
 | Symbian | 🟡 Decent, rest in peace :( | At least 4 years, S60, then Belle as well. I'm an OG lol |
 | KolibriOS | 💾 How is it 1.4MB | Tried it |
-| TempleOS | As god intended | Tried it |
+| TempleOS | R.I.P. my guy Terry | Tried it |
 | MacOS | 😕 If you just browse the web it's awesome. Not for me though. | Most versions, historical and modern. |
 | FreeBSD | 🟡 Not enough experience to make an opinion | Tried it |
 | Solaris | 🟡 Not enough experience to make an opinion | Tried it |
